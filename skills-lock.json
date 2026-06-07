@@ -181,6 +181,12 @@
       "skillPath": "skills/lottie/SKILL.md",
       "computedHash": "385ed944795f1e6b5efa883b069611497be4a7fa78ceed7bfe51cb58e4b0d890"
     },
+    "make-a-video": {
+      "source": "nateherkai/hyperframes-student-kit",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/make-a-video/SKILL.md",
+      "computedHash": "f57b075be0627cb16576fd9014bb6e52ca0fc13f3882251e169fa145a7d52982"
+    },
     "marketing-ideas": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
